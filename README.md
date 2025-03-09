@@ -1,4 +1,4 @@
-Bu örnek proje, Spring Boot Actuator'ın temel ve gelişmiş özelliklerini göstermektedir. Uygulamayı izleme, performans analizi, hata ayıklama ve ürü yönetimi için kullanılır.
+Bu örnek proje, Spring Boot Actuator'ın temel ve gelişmiş özelliklerini göstermektedir. Uygulamayı izleme, performans analizi, hata ayıklama ve ürün yönetimi için kullanılır.
 
 Uç Noktaları Kontrol Etme
 
